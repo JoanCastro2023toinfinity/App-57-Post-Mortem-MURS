@@ -1,0 +1,6 @@
+{
+  "name": "Compendio Fractal 48 Casos",
+  "description": "Aislamiento estructural y fractal de los 48 casos: industria, recursos clave, claves de salida y estructuras afectadas (Financiera, Humana, Social).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
